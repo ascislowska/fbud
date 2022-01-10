@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Budujemy Twoje marzenia
 image: /img/home-jumbotron.jpg
 heading: Budujemy Twoje marzenia
-subheading: Support sustainable farming while enjoying a cup
+subheading: termino - fachowo - z klasą
 mainpitch:
   title: Why Kaldi
   description: >
